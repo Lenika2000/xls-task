@@ -9,4 +9,4 @@
 math с его последующей обработкой по технологии MathJax
 * Задание 2: Cоздайте XSLT-преобразования для предложенного документа документа
     + [Демонстрация](https://lenika2000.github.io/xls-task/)
-    + [Исходный код](https://github.com/Lenika2000/xls-task/converter.xsl)
+    + [Исходный код](https://github.com/Lenika2000/xls-task/blob/main/converter.xsl)
