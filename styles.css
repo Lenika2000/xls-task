@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+.title {
+    background: linear-gradient(180deg, #F6F7FA 0%, #E6E8ED 100%);
+    color: #5080AC;
+    text-align: center;
+    line-height: 100px;
+}
+
+.task-title {
+    color: #5080AC;
+    text-align: center;
+}
+
+.task {
+    display: flex;
+    justify-content: center;
+}
